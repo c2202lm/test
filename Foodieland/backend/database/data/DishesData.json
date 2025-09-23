@@ -1,0 +1,2505 @@
+[
+    {
+        "title": "Avocado Toast with Egg",
+        "calories": 300,
+        "protein": 12,
+        "carb": 25,
+        "fats": 18,
+        "diet": [
+            "Low Carb",
+            "Vegetarian"
+        ],
+        "dietClass": "bg-success",
+        "category": "breakfast",
+        "image": "/Recipe10.svg",
+        "ingredients": [
+            {
+                "name": "avocado",
+                "caloriesPer100g": 160,
+                "proteinPer100g": 2,
+                "carbsPer100g": 9,
+                "fatPer100g": 15
+            },
+            {
+                "name": "egg",
+                "caloriesPer100g": 155,
+                "proteinPer100g": 13,
+                "carbsPer100g": 1.1,
+                "fatPer100g": 11
+            },
+            {
+                "name": "bread",
+                "caloriesPer100g": 250,
+                "proteinPer100g": 8,
+                "carbsPer100g": 49,
+                "fatPer100g": 3
+            },
+            {
+                "name": "salt",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "pepper",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            }
+        ],
+        "tagBadge": "Hot Dish",
+        "description": "A quick and healthy breakfast option with creamy avocado and a perfectly cooked egg.",
+        "time": "10 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Jane Doe",
+        "authorDate": "10 April 2023",
+        "price": 13.17,
+        "dietTypes": [
+            "Gluten Free"
+        ],
+        "allergens": [
+            "Peanuts",
+            "Eggs",
+            "Gluten"
+        ]
+    },
+    {
+        "title": "Pan-Seared Chicken and Rice",
+        "calories": 450,
+        "protein": 35,
+        "carb": 40,
+        "fats": 15,
+        "diet": [
+            "Gluten-Free"
+        ],
+        "dietClass": "bg-warning text-dark",
+        "category": "lunch",
+        "image": "/Recipe4.svg",
+        "ingredients": [
+            {
+                "name": "chicken breast",
+                "caloriesPer100g": 165,
+                "proteinPer100g": 31,
+                "carbsPer100g": 0,
+                "fatPer100g": 3.6
+            },
+            {
+                "name": "rice",
+                "caloriesPer100g": 130,
+                "proteinPer100g": 2.7,
+                "carbsPer100g": 28,
+                "fatPer100g": 0.3
+            },
+            {
+                "name": "broccoli",
+                "caloriesPer100g": 55,
+                "proteinPer100g": 3.7,
+                "carbsPer100g": 11.1,
+                "fatPer100g": 0.6
+            },
+            {
+                "name": "soy sauce",
+                "caloriesPer100g": 53,
+                "proteinPer100g": 8,
+                "carbsPer100g": 4.9,
+                "fatPer100g": 0.6
+            },
+            {
+                "name": "garlic",
+                "caloriesPer100g": 149,
+                "proteinPer100g": 6.4,
+                "carbsPer100g": 33,
+                "fatPer100g": 0.5
+            }
+        ],
+        "tagBadge": "Hot Dish",
+        "description": "A delicious and easy-to-make pan-seared chicken with fluffy rice and steamed broccoli.",
+        "time": "25 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "John Smith",
+        "authorDate": "22 May 2023",
+        "price": 13.61,
+        "dietTypes": [
+            "Vegetarian",
+            "Gluten Free",
+            "High Protein"
+        ],
+        "allergens": [
+            "Wheat",
+            "Soy",
+            "Eggs",
+            "Nuts"
+        ]
+    },
+    {
+        "title": "Salmon Salad",
+        "calories": 350,
+        "protein": 28,
+        "carb": 15,
+        "fats": 20,
+        "diet": [
+            "Paleo",
+            "Gluten-Free"
+        ],
+        "dietClass": "bg-info text-dark",
+        "category": "dinner",
+        "image": "/Recipe11.svg",
+        "ingredients": [
+            {
+                "name": "salmon fillet",
+                "caloriesPer100g": 208,
+                "proteinPer100g": 20,
+                "carbsPer100g": 0,
+                "fatPer100g": 13
+            },
+            {
+                "name": "mixed greens",
+                "caloriesPer100g": 20,
+                "proteinPer100g": 2,
+                "carbsPer100g": 3,
+                "fatPer100g": 0.2
+            },
+            {
+                "name": "cucumber",
+                "caloriesPer100g": 16,
+                "proteinPer100g": 0.7,
+                "carbsPer100g": 3.6,
+                "fatPer100g": 0.1
+            },
+            {
+                "name": "cherry tomatoes",
+                "caloriesPer100g": 18,
+                "proteinPer100g": 0.9,
+                "carbsPer100g": 3.9,
+                "fatPer100g": 0.2
+            },
+            {
+                "name": "lemon vinaigrette",
+                "caloriesPer100g": 130,
+                "proteinPer100g": 0.3,
+                "carbsPer100g": 3.5,
+                "fatPer100g": 13
+            }
+        ],
+        "tagBadge": "Hot Dish",
+        "description": "A light and refreshing salmon salad, perfect for a healthy dinner.",
+        "time": "20 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Alice Johnson",
+        "authorDate": "01 June 2023",
+        "price": 19.72,
+        "dietTypes": [
+            "Vegan",
+            "Vegetarian"
+        ],
+        "allergens": [
+            "Soy"
+        ]
+    },
+    {
+        "title": "Oatmeal Cookies",
+        "calories": 200,
+        "protein": 4,
+        "carb": 30,
+        "fats": 8,
+        "diet": [
+            "Vegan",
+            "Vegetarian"
+        ],
+        "dietClass": "bg-success",
+        "category": "snacks",
+        "image": "/Recipe5.svg",
+        "ingredients": [
+            {
+                "name": "oats",
+                "caloriesPer100g": 389,
+                "proteinPer100g": 17,
+                "carbsPer100g": 66,
+                "fatPer100g": 7
+            },
+            {
+                "name": "flour",
+                "caloriesPer100g": 364,
+                "proteinPer100g": 10,
+                "carbsPer100g": 76,
+                "fatPer100g": 1
+            },
+            {
+                "name": "sugar",
+                "caloriesPer100g": 387,
+                "proteinPer100g": 0,
+                "carbsPer100g": 100,
+                "fatPer100g": 0
+            },
+            {
+                "name": "vegan butter",
+                "caloriesPer100g": 717,
+                "proteinPer100g": 0.2,
+                "carbsPer100g": 0.7,
+                "fatPer100g": 81
+            },
+            {
+                "name": "cinnamon",
+                "caloriesPer100g": 247,
+                "proteinPer100g": 4,
+                "carbsPer100g": 81,
+                "fatPer100g": 1.2
+            }
+        ],
+        "tagBadge": "",
+        "description": "Wholesome and delicious vegan oatmeal cookies, a perfect treat for any time of day.",
+        "time": "30 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Bob Williams",
+        "authorDate": "15 March 2023",
+        "price": 16.91,
+        "dietTypes": [
+            "High Protein",
+            "Vegetarian"
+        ],
+        "allergens": [
+            "Gluten"
+        ]
+    },
+    {
+        "title": "Mango Banana Smoothie",
+        "calories": 180,
+        "protein": 3,
+        "carb": 45,
+        "fats": 1,
+        "diet": [
+            "Vegan",
+            "Gluten-Free"
+        ],
+        "dietClass": "bg-success",
+        "category": "smoothies",
+        "image": "/Recipe12.svg",
+        "ingredients": [
+            {
+                "name": "mango",
+                "caloriesPer100g": 60,
+                "proteinPer100g": 0.8,
+                "carbsPer100g": 15,
+                "fatPer100g": 0.4
+            },
+            {
+                "name": "banana",
+                "caloriesPer100g": 89,
+                "proteinPer100g": 1.1,
+                "carbsPer100g": 23,
+                "fatPer100g": 0.3
+            },
+            {
+                "name": "almond milk",
+                "caloriesPer100g": 15,
+                "proteinPer100g": 0.6,
+                "carbsPer100g": 0.3,
+                "fatPer100g": 1.2
+            },
+            {
+                "name": "spinach",
+                "caloriesPer100g": 23,
+                "proteinPer100g": 2.9,
+                "carbsPer100g": 3.6,
+                "fatPer100g": 0.4
+            }
+        ],
+        "tagBadge": "",
+        "description": "A tropical blend of mango and banana, perfect for a refreshing and healthy boost.",
+        "time": "5 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Charlie Brown",
+        "authorDate": "05 April 2023",
+        "price": 10.05,
+        "dietTypes": [
+            "Low Carb"
+        ],
+        "allergens": [
+            "Sesame",
+            "Fish"
+        ]
+    },
+    {
+        "title": "Greek Yogurt Parfait",
+        "calories": 250,
+        "protein": 15,
+        "carb": 30,
+        "fats": 8,
+        "diet": [
+            "Vegetarian",
+            "Low Carb"
+        ],
+        "dietClass": "bg-primary",
+        "category": "breakfast",
+        "image": "/Recipe9.svg",
+        "ingredients": [
+            {
+                "name": "greek yogurt",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "berries",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "granola",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "honey",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            }
+        ],
+        "tagBadge": "Hot Dish",
+        "description": "A layered Greek yogurt parfait with fresh berries and crunchy granola.",
+        "time": "8 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Diana Prince",
+        "authorDate": "18 February 2023",
+        "price": 19.54,
+        "dietTypes": [
+            "Keto",
+            "Vegan",
+            "Gluten Free"
+        ],
+        "allergens": [
+            "Nuts"
+        ]
+    },
+    {
+        "title": "Grilled Turkey Sandwich",
+        "calories": 400,
+        "protein": 30,
+        "carb": 35,
+        "fats": 10,
+        "diet": [
+            "Low Fat"
+        ],
+        "dietClass": "bg-info text-dark",
+        "category": "lunch",
+        "image": "/Recipe7.svg",
+        "ingredients": [
+            {
+                "name": "turkey breast",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "whole wheat bread",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "lettuce",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "tomato",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "mustard",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            }
+        ],
+        "tagBadge": "",
+        "description": "A savory grilled turkey sandwich, a classic comfort food for lunch.",
+        "time": "15 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Eve Adams",
+        "authorDate": "29 January 2023",
+        "price": 12.08,
+        "dietTypes": [
+            "Low Carb",
+            "High Protein",
+            "Vegan"
+        ],
+        "allergens": [
+            "Sesame",
+            "Gluten"
+        ]
+    },
+    {
+        "title": "Beef Stir Fry",
+        "calories": 500,
+        "protein": 40,
+        "carb": 30,
+        "fats": 25,
+        "diet": [
+            "Keto",
+            "Gluten-Free"
+        ],
+        "dietClass": "bg-warning text-dark",
+        "category": "dinner",
+        "image": "/Recipe16.svg",
+        "ingredients": [
+            {
+                "name": "beef sirloin",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "bell peppers",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "onions",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "soy sauce",
+                "caloriesPer100g": 53,
+                "proteinPer100g": 8,
+                "carbsPer100g": 4.9,
+                "fatPer100g": 0.6
+            },
+            {
+                "name": "ginger",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            }
+        ],
+        "tagBadge": "",
+        "description": "A quick and flavorful beef stir fry packed with colorful vegetables.",
+        "time": "20 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Frank White",
+        "authorDate": "03 March 2023",
+        "price": 15.77,
+        "dietTypes": [
+            "Keto",
+            "High Protein"
+        ],
+        "allergens": [
+            "Sesame",
+            "Eggs",
+            "Wheat",
+            "Fish"
+        ]
+    },
+    {
+        "title": "Almond Energy Balls",
+        "calories": 120,
+        "protein": 5,
+        "carb": 15,
+        "fats": 7,
+        "diet": [
+            "Vegan",
+            "Gluten-Free"
+        ],
+        "dietClass": "bg-success",
+        "category": "snacks",
+        "image": "/Recipe20.svg",
+        "ingredients": [
+            {
+                "name": "almond butter",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "oats",
+                "caloriesPer100g": 389,
+                "proteinPer100g": 17,
+                "carbsPer100g": 66,
+                "fatPer100g": 7
+            },
+            {
+                "name": "chia seeds",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "maple syrup",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            }
+        ],
+        "tagBadge": "Hot Dish",
+        "description": "Delicious and easy-to-make almond energy balls, perfect for a quick snack.",
+        "time": "10 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Grace Taylor",
+        "authorDate": "11 May 2023",
+        "price": 17.45,
+        "dietTypes": [
+            "Keto"
+        ],
+        "allergens": [
+            "Shellfish",
+            "Soy"
+        ]
+    },
+    {
+        "title": "Blueberry Protein Shake",
+        "calories": 220,
+        "protein": 25,
+        "carb": 20,
+        "fats": 5,
+        "diet": [
+            "Vegetarian"
+        ],
+        "dietClass": "bg-primary",
+        "category": "smoothies",
+        "image": "/Recipe1.svg",
+        "ingredients": [
+            {
+                "name": "blueberries",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "protein powder",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "milk",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "ice",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            }
+        ],
+        "tagBadge": "Hot Dish",
+        "description": "A refreshing blueberry protein shake, ideal for post-workout or a healthy breakfast.",
+        "time": "5 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Harry Green",
+        "authorDate": "25 April 2023",
+        "price": 19.63,
+        "dietTypes": [
+            "Gluten Free",
+            "Vegetarian",
+            "Keto"
+        ],
+        "allergens": [
+            "Sesame",
+            "Peanuts"
+        ]
+    },
+    {
+        "title": "Egg White Omelette",
+        "calories": 150,
+        "protein": 18,
+        "carb": 5,
+        "fats": 7,
+        "diet": [
+            "Low Carb"
+        ],
+        "dietClass": "bg-success",
+        "category": "breakfast",
+        "image": "/Recipe2.svg",
+        "ingredients": [
+            {
+                "name": "egg whites",
+                "caloriesPer100g": 52,
+                "proteinPer100g": 11,
+                "carbsPer100g": 0.7,
+                "fatPer100g": 0.2
+            },
+            {
+                "name": "spinach",
+                "caloriesPer100g": 23,
+                "proteinPer100g": 2.9,
+                "carbsPer100g": 3.6,
+                "fatPer100g": 0.4
+            },
+            {
+                "name": "mushrooms",
+                "caloriesPer100g": 22,
+                "proteinPer100g": 3.1,
+                "carbsPer100g": 3.3,
+                "fatPer100g": 0.3
+            },
+            {
+                "name": "cheese",
+                "caloriesPer100g": 402,
+                "proteinPer100g": 25,
+                "carbsPer100g": 1.3,
+                "fatPer100g": 33
+            }
+        ],
+        "tagBadge": "Hot Dish",
+        "description": "A light and fluffy egg white omelette, packed with healthy vegetables.",
+        "time": "12 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Ivy King",
+        "authorDate": "08 March 2023",
+        "price": 19.45,
+        "dietTypes": [
+            "Low Carb",
+            "Vegetarian",
+            "Keto"
+        ],
+        "allergens": [
+            "Gluten"
+        ]
+    },
+    {
+        "title": "Quinoa and Veggie Bowl",
+        "calories": 390,
+        "protein": 15,
+        "carb": 50,
+        "fats": 10,
+        "diet": [
+            "Gluten-Free",
+            "Vegan"
+        ],
+        "dietClass": "bg-warning text-dark",
+        "category": "lunch",
+        "image": "/Recipe3.svg",
+        "ingredients": [
+            {
+                "name": "quinoa",
+                "caloriesPer100g": 120,
+                "proteinPer100g": 4.1,
+                "carbsPer100g": 21.3,
+                "fatPer100g": 1.9
+            },
+            {
+                "name": "zucchini",
+                "caloriesPer100g": 17,
+                "proteinPer100g": 1.2,
+                "carbsPer100g": 3.1,
+                "fatPer100g": 0.3
+            },
+            {
+                "name": "carrots",
+                "caloriesPer100g": 41,
+                "proteinPer100g": 0.9,
+                "carbsPer100g": 10,
+                "fatPer100g": 0.2
+            },
+            {
+                "name": "bell peppers",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "olive oil",
+                "caloriesPer100g": 884,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 100
+            }
+        ],
+        "tagBadge": "Hot Dish",
+        "description": "A nutritious and colorful quinoa and veggie bowl, perfect for a light lunch.",
+        "time": "30 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Jack Lee",
+        "authorDate": "19 February 2023",
+        "price": 14.31,
+        "dietTypes": [
+            "Vegan",
+            "Gluten Free",
+            "High Protein"
+        ],
+        "allergens": [
+            "Nuts",
+            "Eggs",
+            "Soy"
+        ]
+    },
+    {
+        "title": "Grilled Salmon with Asparagus",
+        "calories": 470,
+        "protein": 38,
+        "carb": 10,
+        "fats": 30,
+        "diet": [
+            "Paleo",
+            "Gluten-Free"
+        ],
+        "dietClass": "bg-info text-dark",
+        "category": "dinner",
+        "image": "/Recipe6.svg",
+        "ingredients": [
+            {
+                "name": "salmon",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "asparagus",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "lemon",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "garlic",
+                "caloriesPer100g": 149,
+                "proteinPer100g": 6.4,
+                "carbsPer100g": 33,
+                "fatPer100g": 0.5
+            },
+            {
+                "name": "dill",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            }
+        ],
+        "tagBadge": "Hot Dish",
+        "description": "A simple yet elegant grilled salmon dish with tender asparagus.",
+        "time": "25 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Karen Hall",
+        "authorDate": "07 January 2023",
+        "price": 16.58,
+        "dietTypes": [
+            "Vegetarian",
+            "Gluten Free",
+            "High Protein"
+        ],
+        "allergens": [
+            "Gluten",
+            "Dairy"
+        ]
+    },
+    {
+        "title": "Trail Mix",
+        "calories": 210,
+        "protein": 8,
+        "carb": 25,
+        "fats": 10,
+        "diet": [
+            "Vegetarian",
+            "Vegan"
+        ],
+        "dietClass": "bg-primary",
+        "category": "snacks",
+        "image": "/Recipe14.svg",
+        "ingredients": [
+            {
+                "name": "nuts",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "dried fruit",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "seeds",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "chocolate chips",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            }
+        ],
+        "tagBadge": "Hot Dish",
+        "description": "A versatile and energy-boosting trail mix, perfect for on-the-go snacking.",
+        "time": "5 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Liam Scott",
+        "authorDate": "02 March 2023",
+        "price": 9.94,
+        "dietTypes": [
+            "Gluten Free"
+        ],
+        "allergens": [
+            "Nuts",
+            "Wheat",
+            "Peanuts"
+        ]
+    },
+    {
+        "title": "Peanut Butter Banana Smoothie",
+        "calories": 300,
+        "protein": 10,
+        "carb": 45,
+        "fats": 12,
+        "diet": [
+            "Vegetarian",
+            "Gluten-Free"
+        ],
+        "dietClass": "bg-primary",
+        "category": "smoothies",
+        "image": "/Recipe15.svg",
+        "ingredients": [
+            {
+                "name": "peanut butter",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "banana",
+                "caloriesPer100g": 89,
+                "proteinPer100g": 1.1,
+                "carbsPer100g": 23,
+                "fatPer100g": 0.3
+            },
+            {
+                "name": "milk",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "honey",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            }
+        ],
+        "tagBadge": "",
+        "description": "A creamy and satisfying peanut butter banana smoothie, packed with flavor.",
+        "time": "7 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Mia Adams",
+        "authorDate": "14 April 2023",
+        "price": 5.21,
+        "dietTypes": [
+            "Vegetarian",
+            "Keto",
+            "High Protein"
+        ],
+        "allergens": [
+            "Peanuts",
+            "Sesame"
+        ]
+    },
+    {
+        "title": "Chia Seed Pudding",
+        "calories": 230,
+        "protein": 7,
+        "carb": 30,
+        "fats": 10,
+        "diet": [
+            "Vegan",
+            "Gluten-Free"
+        ],
+        "dietClass": "bg-success",
+        "category": "breakfast",
+        "image": "/Recipe17.svg",
+        "ingredients": [
+            {
+                "name": "chia seeds",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "almond milk",
+                "caloriesPer100g": 15,
+                "proteinPer100g": 0.6,
+                "carbsPer100g": 0.3,
+                "fatPer100g": 1.2
+            },
+            {
+                "name": "berries",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "vanilla extract",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            }
+        ],
+        "tagBadge": "",
+        "description": "A simple and nutritious chia seed pudding, great for breakfast or a healthy dessert.",
+        "time": "10 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Noah Wilson",
+        "authorDate": "28 February 2023",
+        "price": 9.16,
+        "dietTypes": [
+            "Vegan",
+            "Low Carb"
+        ],
+        "allergens": [
+            "Shellfish"
+        ]
+    },
+    {
+        "title": "Chicken Caesar Wrap",
+        "calories": 420,
+        "protein": 30,
+        "carb": 30,
+        "fats": 20,
+        "diet": [
+            "Low Carb"
+        ],
+        "dietClass": "bg-success",
+        "category": "lunch",
+        "image": "/Recipe18.svg",
+        "ingredients": [
+            {
+                "name": "chicken",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "lettuce",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "parmesan",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "caesar dressing",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "tortilla",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            }
+        ],
+        "tagBadge": "",
+        "description": "A classic chicken Caesar wrap, perfect for a quick and satisfying meal.",
+        "time": "15 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Olivia Clark",
+        "authorDate": "09 March 2023",
+        "price": 7.44,
+        "dietTypes": [
+            "Vegan"
+        ],
+        "allergens": [
+            "Nuts",
+            "Fish",
+            "Shellfish",
+            "Peanuts"
+        ]
+    },
+    {
+        "title": "Stuffed Bell Peppers",
+        "calories": 380,
+        "protein": 25,
+        "carb": 30,
+        "fats": 15,
+        "diet": [
+            "Keto",
+            "Gluten-Free"
+        ],
+        "dietClass": "bg-warning text-dark",
+        "category": "dinner",
+        "image": "/Recipe19.svg",
+        "ingredients": [
+            {
+                "name": "bell peppers",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "ground beef",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "rice",
+                "caloriesPer100g": 130,
+                "proteinPer100g": 2.7,
+                "carbsPer100g": 28,
+                "fatPer100g": 0.3
+            },
+            {
+                "name": "tomato sauce",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "cheese",
+                "caloriesPer100g": 402,
+                "proteinPer100g": 25,
+                "carbsPer100g": 1.3,
+                "fatPer100g": 33
+            }
+        ],
+        "tagBadge": "",
+        "description": "Hearty stuffed bell peppers, a delicious and wholesome dinner option.",
+        "time": "45 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Peter Evans",
+        "authorDate": "21 January 2023",
+        "price": 14.45,
+        "dietTypes": [
+            "Vegan",
+            "High Protein"
+        ],
+        "allergens": [
+            "Nuts",
+            "Wheat"
+        ]
+    },
+    {
+        "title": "Fruit & Nut Bars",
+        "calories": 190,
+        "protein": 6,
+        "carb": 28,
+        "fats": 8,
+        "diet": [
+            "Vegan",
+            "Gluten-Free"
+        ],
+        "dietClass": "bg-success",
+        "category": "snacks",
+        "image": "/Recipe20.svg",
+        "ingredients": [
+            {
+                "name": "dates",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "nuts",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "dried fruit",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "oats",
+                "caloriesPer100g": 389,
+                "proteinPer100g": 17,
+                "carbsPer100g": 66,
+                "fatPer100g": 7
+            }
+        ],
+        "tagBadge": "",
+        "description": "Homemade fruit and nut bars, a healthy and convenient snack.",
+        "time": "20 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Quinn Roberts",
+        "authorDate": "06 February 2023",
+        "price": 18.84,
+        "dietTypes": [
+            "Vegan",
+            "Vegetarian",
+            "High Protein"
+        ],
+        "allergens": [
+            "Sesame"
+        ]
+    },
+    {
+        "title": "Strawberry Kale Smoothie",
+        "calories": 210,
+        "protein": 4,
+        "carb": 35,
+        "fats": 2,
+        "diet": [
+            "Vegan",
+            "Gluten-Free"
+        ],
+        "dietClass": "bg-success",
+        "category": "smoothies",
+        "image": "/Recipe1.svg",
+        "ingredients": [
+            {
+                "name": "strawberries",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "kale",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "coconut water",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "banana",
+                "caloriesPer100g": 89,
+                "proteinPer100g": 1.1,
+                "carbsPer100g": 23,
+                "fatPer100g": 0.3
+            }
+        ],
+        "tagBadge": "",
+        "description": "A vibrant and nutritious strawberry kale smoothie, perfect for a detox.",
+        "time": "7 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Rachel Green",
+        "authorDate": "17 March 2023",
+        "price": 10.37,
+        "dietTypes": [
+            "High Protein",
+            "Low Carb"
+        ],
+        "allergens": [
+            "Wheat",
+            "Soy",
+            "Nuts"
+        ]
+    },
+    {
+        "title": "Tofu Scramble",
+        "calories": 260,
+        "protein": 20,
+        "carb": 15,
+        "fats": 15,
+        "diet": [
+            "Vegan",
+            "Gluten-Free"
+        ],
+        "dietClass": "bg-success",
+        "category": "breakfast",
+        "image": "/Recipe2.svg",
+        "ingredients": [
+            {
+                "name": "tofu",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "turmeric",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "onions",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "bell peppers",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "nutritional yeast",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            }
+        ],
+        "tagBadge": "",
+        "description": "A hearty and flavorful tofu scramble, a great plant-based breakfast.",
+        "time": "20 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Sam White",
+        "authorDate": "04 May 2023",
+        "price": 17.58,
+        "dietTypes": [
+            "High Protein",
+            "Keto",
+            "Gluten Free"
+        ],
+        "allergens": [
+            "Peanuts",
+            "Eggs"
+        ]
+    },
+    {
+        "title": "Tuna Salad Wrap",
+        "calories": 350,
+        "protein": 25,
+        "carb": 20,
+        "fats": 20,
+        "diet": [
+            "Gluten-Free",
+            "Low Carb"
+        ],
+        "dietClass": "bg-warning text-dark",
+        "category": "lunch",
+        "image": "/Recipe3.svg",
+        "ingredients": [
+            {
+                "name": "tuna",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "mayonnaise",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "celery",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "onion",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "lettuce wrap",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            }
+        ],
+        "tagBadge": "",
+        "description": "A light and easy tuna salad wrap, perfect for a quick lunch.",
+        "time": "10 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Tina Turner",
+        "authorDate": "12 April 2023",
+        "price": 12.23,
+        "dietTypes": [
+            "High Protein"
+        ],
+        "allergens": [
+            "Wheat"
+        ]
+    },
+    {
+        "title": "Roasted Chicken and Veggies",
+        "calories": 430,
+        "protein": 35,
+        "carb": 30,
+        "fats": 20,
+        "diet": [
+            "Paleo",
+            "Gluten-Free"
+        ],
+        "dietClass": "bg-info text-dark",
+        "category": "dinner",
+        "image": "/Recipe6.svg",
+        "ingredients": [
+            {
+                "name": "chicken thighs",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "potatoes",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "carrots",
+                "caloriesPer100g": 41,
+                "proteinPer100g": 0.9,
+                "carbsPer100g": 10,
+                "fatPer100g": 0.2
+            },
+            {
+                "name": "rosemary",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "olive oil",
+                "caloriesPer100g": 884,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 100
+            }
+        ],
+        "tagBadge": "",
+        "description": "A comforting and healthy roasted chicken with root vegetables.",
+        "time": "50 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Uma Thurman",
+        "authorDate": "23 March 2023",
+        "price": 19.0,
+        "dietTypes": [
+            "Vegan",
+            "Low Carb",
+            "Keto"
+        ],
+        "allergens": [
+            "Wheat",
+            "Nuts"
+        ]
+    },
+    {
+        "title": "Protein Bar",
+        "calories": 210,
+        "protein": 18,
+        "carb": 15,
+        "fats": 10,
+        "diet": [
+            "Keto",
+            "Gluten-Free"
+        ],
+        "dietClass": "bg-warning text-dark",
+        "category": "snacks",
+        "image": "/Recipe14.svg",
+        "ingredients": [
+            {
+                "name": "protein powder",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "nut butter",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "oats",
+                "caloriesPer100g": 389,
+                "proteinPer100g": 17,
+                "carbsPer100g": 66,
+                "fatPer100g": 7
+            },
+            {
+                "name": "honey",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            }
+        ],
+        "tagBadge": "",
+        "description": "A homemade protein bar, perfect for a post-workout snack or energy boost.",
+        "time": "15 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Victor Stone",
+        "authorDate": "09 February 2023",
+        "price": 14.21,
+        "dietTypes": [
+            "High Protein"
+        ],
+        "allergens": [
+            "Fish",
+            "Eggs",
+            "Gluten",
+            "Dairy"
+        ]
+    },
+    {
+        "title": "Green Detox Smoothie",
+        "calories": 190,
+        "protein": 3,
+        "carb": 30,
+        "fats": 1,
+        "diet": [
+            "Vegan",
+            "Gluten-Free"
+        ],
+        "dietClass": "bg-success",
+        "category": "smoothies",
+        "image": "/Recipe15.svg",
+        "ingredients": [
+            {
+                "name": "spinach",
+                "caloriesPer100g": 23,
+                "proteinPer100g": 2.9,
+                "carbsPer100g": 3.6,
+                "fatPer100g": 0.4
+            },
+            {
+                "name": "cucumber",
+                "caloriesPer100g": 16,
+                "proteinPer100g": 0.7,
+                "carbsPer100g": 3.6,
+                "fatPer100g": 0.1
+            },
+            {
+                "name": "apple",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "ginger",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "water",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            }
+        ],
+        "tagBadge": "",
+        "description": "A refreshing green detox smoothie to cleanse and energize your body.",
+        "time": "5 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Wendy Darling",
+        "authorDate": "16 January 2023",
+        "price": 19.46,
+        "dietTypes": [
+            "Gluten Free",
+            "Keto",
+            "Vegetarian"
+        ],
+        "allergens": [
+            "Shellfish",
+            "Dairy",
+            "Nuts"
+        ]
+    },
+    {
+        "title": "Cottage Cheese Bowl",
+        "calories": 240,
+        "protein": 20,
+        "carb": 15,
+        "fats": 5,
+        "diet": [
+            "Low Fat",
+            "Vegetarian"
+        ],
+        "dietClass": "bg-info text-dark",
+        "category": "breakfast",
+        "image": "/Recipe16.svg",
+        "ingredients": [
+            {
+                "name": "cottage cheese",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "pineapple",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "nuts",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            }
+        ],
+        "tagBadge": "",
+        "description": "A simple and satisfying cottage cheese bowl with fresh fruit and nuts.",
+        "time": "5 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Xavier Woods",
+        "authorDate": "27 May 2023",
+        "price": 6.57,
+        "dietTypes": [
+            "Vegetarian",
+            "Vegan",
+            "Low Carb"
+        ],
+        "allergens": [
+            "Dairy",
+            "Eggs",
+            "Gluten"
+        ]
+    },
+    {
+        "title": "Lentil Soup",
+        "calories": 330,
+        "protein": 22,
+        "carb": 45,
+        "fats": 5,
+        "diet": [
+            "Vegan",
+            "Gluten-Free"
+        ],
+        "dietClass": "bg-success",
+        "category": "lunch",
+        "image": "/Recipe17.svg",
+        "ingredients": [
+            {
+                "name": "lentils",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "carrots",
+                "caloriesPer100g": 41,
+                "proteinPer100g": 0.9,
+                "carbsPer100g": 10,
+                "fatPer100g": 0.2
+            },
+            {
+                "name": "celery",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "onions",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "vegetable broth",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            }
+        ],
+        "tagBadge": "",
+        "description": "A hearty and nutritious lentil soup, perfect for a comforting meal.",
+        "time": "40 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Yara Greyjoy",
+        "authorDate": "03 April 2023",
+        "price": 12.12,
+        "dietTypes": [
+            "Vegetarian",
+            "Vegan",
+            "High Protein"
+        ],
+        "allergens": [
+            "Peanuts",
+            "Fish",
+            "Sesame"
+        ]
+    },
+    {
+        "title": "Zucchini Noodles with Pesto",
+        "calories": 290,
+        "protein": 10,
+        "carb": 20,
+        "fats": 18,
+        "diet": [
+            "Low Carb",
+            "Vegetarian"
+        ],
+        "dietClass": "bg-success",
+        "category": "dinner",
+        "image": "/Recipe18.svg",
+        "ingredients": [
+            {
+                "name": "zucchini",
+                "caloriesPer100g": 17,
+                "proteinPer100g": 1.2,
+                "carbsPer100g": 3.1,
+                "fatPer100g": 0.3
+            },
+            {
+                "name": "pesto",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "cherry tomatoes",
+                "caloriesPer100g": 18,
+                "proteinPer100g": 0.9,
+                "carbsPer100g": 3.9,
+                "fatPer100g": 0.2
+            },
+            {
+                "name": "pine nuts",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            }
+        ],
+        "tagBadge": "",
+        "description": "Light and flavorful zucchini noodles tossed with fresh pesto and cherry tomatoes.",
+        "time": "15 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Zoe Davis",
+        "authorDate": "19 March 2023",
+        "price": 18.04,
+        "dietTypes": [
+            "Vegan",
+            "High Protein"
+        ],
+        "allergens": [
+            "Nuts",
+            "Eggs",
+            "Wheat",
+            "Fish"
+        ]
+    },
+    {
+        "title": "Carrot Sticks with Hummus",
+        "calories": 150,
+        "protein": 5,
+        "carb": 20,
+        "fats": 7,
+        "diet": [
+            "Vegan",
+            "Gluten-Free"
+        ],
+        "dietClass": "bg-success",
+        "category": "snacks",
+        "image": "/Recipe19.svg",
+        "ingredients": [
+            {
+                "name": "carrots",
+                "caloriesPer100g": 41,
+                "proteinPer100g": 0.9,
+                "carbsPer100g": 10,
+                "fatPer100g": 0.2
+            },
+            {
+                "name": "hummus",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            }
+        ],
+        "tagBadge": "",
+        "description": "A simple and healthy snack option: crisp carrot sticks with creamy hummus.",
+        "time": "5 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Adam Smith",
+        "authorDate": "10 May 2023",
+        "price": 17.97,
+        "dietTypes": [
+            "High Protein"
+        ],
+        "allergens": [
+            "Peanuts",
+            "Wheat",
+            "Gluten"
+        ]
+    },
+    {
+        "title": "Pineapple Coconut Smoothie",
+        "calories": 210,
+        "protein": 2,
+        "carb": 50,
+        "fats": 3,
+        "diet": [
+            "Vegetarian",
+            "Gluten-Free"
+        ],
+        "dietClass": "bg-primary",
+        "category": "smoothies",
+        "image": "/Recipe20.svg",
+        "ingredients": [
+            {
+                "name": "pineapple",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "coconut milk",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "banana",
+                "caloriesPer100g": 89,
+                "proteinPer100g": 1.1,
+                "carbsPer100g": 23,
+                "fatPer100g": 0.3
+            },
+            {
+                "name": "ice",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            }
+        ],
+        "tagBadge": "",
+        "description": "A tropical delight, this pineapple coconut smoothie is refreshing and energizing.",
+        "time": "6 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Brenda Lee",
+        "authorDate": "21 April 2023",
+        "price": 15.39,
+        "dietTypes": [
+            "Vegan"
+        ],
+        "allergens": [
+            "Dairy",
+            "Peanuts",
+            "Fish",
+            "Wheat"
+        ]
+    },
+    {
+        "title": "Banana Oat Pancakes",
+        "calories": 270,
+        "protein": 8,
+        "carb": 40,
+        "fats": 10,
+        "diet": [
+            "Vegetarian"
+        ],
+        "dietClass": "bg-primary",
+        "category": "breakfast",
+        "image": "/Recipe1.svg",
+        "ingredients": [
+            {
+                "name": "banana",
+                "caloriesPer100g": 89,
+                "proteinPer100g": 1.1,
+                "carbsPer100g": 23,
+                "fatPer100g": 0.3
+            },
+            {
+                "name": "oats",
+                "caloriesPer100g": 389,
+                "proteinPer100g": 17,
+                "carbsPer100g": 66,
+                "fatPer100g": 7
+            },
+            {
+                "name": "egg",
+                "caloriesPer100g": 155,
+                "proteinPer100g": 13,
+                "carbsPer100g": 1.1,
+                "fatPer100g": 11
+            },
+            {
+                "name": "milk",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "baking powder",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            }
+        ],
+        "tagBadge": "",
+        "description": "Fluffy and healthy banana oat pancakes, a perfect start to your day.",
+        "time": "20 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Chris Evans",
+        "authorDate": "05 March 2023",
+        "price": 18.71,
+        "dietTypes": [
+            "Vegetarian",
+            "Vegan"
+        ],
+        "allergens": [
+            "Eggs",
+            "Peanuts",
+            "Soy",
+            "Sesame"
+        ]
+    },
+    {
+        "title": "Turkey Lettuce Wraps",
+        "calories": 310,
+        "protein": 25,
+        "carb": 15,
+        "fats": 18,
+        "diet": [
+            "Keto",
+            "Low Carb"
+        ],
+        "dietClass": "bg-warning text-dark",
+        "category": "lunch",
+        "image": "/Recipe2.svg",
+        "ingredients": [
+            {
+                "name": "ground turkey",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "lettuce cups",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "hoisin sauce",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "ginger",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "garlic",
+                "caloriesPer100g": 149,
+                "proteinPer100g": 6.4,
+                "carbsPer100g": 33,
+                "fatPer100g": 0.5
+            }
+        ],
+        "tagBadge": "",
+        "description": "Light and flavorful turkey lettuce wraps, a great low-carb lunch option.",
+        "time": "20 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Dana Scully",
+        "authorDate": "14 February 2023",
+        "price": 14.68,
+        "dietTypes": [
+            "Keto",
+            "Vegan"
+        ],
+        "allergens": [
+            "Gluten",
+            "Nuts",
+            "Shellfish"
+        ]
+    },
+    {
+        "title": "Grilled Shrimp Skewers",
+        "calories": 340,
+        "protein": 30,
+        "carb": 10,
+        "fats": 20,
+        "diet": [
+            "Paleo",
+            "Gluten-Free"
+        ],
+        "dietClass": "bg-info text-dark",
+        "category": "dinner",
+        "image": "/Recipe3.svg",
+        "ingredients": [
+            {
+                "name": "shrimp",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "bell peppers",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "onions",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "lemon juice",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "olive oil",
+                "caloriesPer100g": 884,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 100
+            }
+        ],
+        "tagBadge": "",
+        "description": "Juicy grilled shrimp skewers with colorful bell peppers and onions.",
+        "time": "25 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Ethan Hunt",
+        "authorDate": "28 January 2023",
+        "price": 19.65,
+        "dietTypes": [
+            "Low Carb"
+        ],
+        "allergens": [
+            "Peanuts",
+            "Sesame",
+            "Gluten"
+        ]
+    },
+    {
+        "title": "Rice Cake with Almond Butter",
+        "calories": 180,
+        "protein": 5,
+        "carb": 25,
+        "fats": 8,
+        "diet": [
+            "Vegan",
+            "Gluten-Free"
+        ],
+        "dietClass": "bg-success",
+        "category": "snacks",
+        "image": "/Recipe6.svg",
+        "ingredients": [
+            {
+                "name": "rice cake",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "almond butter",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "banana slices",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            }
+        ],
+        "tagBadge": "",
+        "description": "A simple and quick rice cake snack with almond butter and banana.",
+        "time": "3 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Fiona Apple",
+        "authorDate": "01 March 2023",
+        "price": 14.06,
+        "dietTypes": [
+            "Keto"
+        ],
+        "allergens": [
+            "Nuts",
+            "Shellfish",
+            "Sesame"
+        ]
+    },
+    {
+        "title": "Berry Beet Smoothie",
+        "calories": 200,
+        "protein": 3,
+        "carb": 40,
+        "fats": 1,
+        "diet": [
+            "Vegan",
+            "Gluten-Free"
+        ],
+        "dietClass": "bg-success",
+        "category": "smoothies",
+        "image": "/Recipe7.svg",
+        "ingredients": [
+            {
+                "name": "mixed berries",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "beet",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "ginger",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "water",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            }
+        ],
+        "tagBadge": "",
+        "description": "A vibrant and healthy berry beet smoothie, packed with antioxidants.",
+        "time": "5 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "George Costanza",
+        "authorDate": "11 February 2023",
+        "price": 13.33,
+        "dietTypes": [
+            "Low Carb",
+            "High Protein",
+            "Vegetarian"
+        ],
+        "allergens": [
+            "Wheat",
+            "Soy"
+        ]
+    },
+    {
+        "title": "Breakfast Burrito",
+        "calories": 390,
+        "protein": 15,
+        "carb": 40,
+        "fats": 18,
+        "diet": [
+            "Vegetarian"
+        ],
+        "dietClass": "bg-primary",
+        "category": "breakfast",
+        "image": "/Recipe8.svg",
+        "ingredients": [
+            {
+                "name": "eggs",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "black beans",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "salsa",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "cheese",
+                "caloriesPer100g": 402,
+                "proteinPer100g": 25,
+                "carbsPer100g": 1.3,
+                "fatPer100g": 33
+            },
+            {
+                "name": "tortilla",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            }
+        ],
+        "tagBadge": "",
+        "description": "A satisfying vegetarian breakfast burrito, perfect for a hearty morning meal.",
+        "time": "20 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Hannah Baker",
+        "authorDate": "20 April 2023",
+        "price": 10.28,
+        "dietTypes": [
+            "Vegetarian",
+            "Gluten Free",
+            "Keto"
+        ],
+        "allergens": [
+            "Eggs"
+        ]
+    },
+    {
+        "title": "Pasta Primavera",
+        "calories": 430,
+        "protein": 12,
+        "carb": 60,
+        "fats": 15,
+        "diet": [
+            "Vegetarian",
+            "Gluten-Free"
+        ],
+        "dietClass": "bg-primary",
+        "category": "lunch",
+        "image": "/Recipe9.svg",
+        "ingredients": [
+            {
+                "name": "pasta",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "zucchini",
+                "caloriesPer100g": 17,
+                "proteinPer100g": 1.2,
+                "carbsPer100g": 3.1,
+                "fatPer100g": 0.3
+            },
+            {
+                "name": "broccoli",
+                "caloriesPer100g": 55,
+                "proteinPer100g": 3.7,
+                "carbsPer100g": 11.1,
+                "fatPer100g": 0.6
+            },
+            {
+                "name": "cherry tomatoes",
+                "caloriesPer100g": 18,
+                "proteinPer100g": 0.9,
+                "carbsPer100g": 3.9,
+                "fatPer100g": 0.2
+            },
+            {
+                "name": "pesto",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            }
+        ],
+        "tagBadge": "",
+        "description": "A colorful and fresh pasta primavera, loaded with seasonal vegetables.",
+        "time": "25 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Ian Somerhalder",
+        "authorDate": "07 May 2023",
+        "price": 18.98,
+        "dietTypes": [
+            "Vegetarian",
+            "High Protein"
+        ],
+        "allergens": [
+            "Fish",
+            "Wheat"
+        ]
+    },
+    {
+        "title": "Baked Cod with Lemon",
+        "calories": 320,
+        "protein": 28,
+        "carb": 5,
+        "fats": 20,
+        "diet": [
+            "Gluten-Free"
+        ],
+        "dietClass": "bg-warning text-dark",
+        "category": "dinner",
+        "image": "/Recipe13.svg",
+        "ingredients": [
+            {
+                "name": "cod fillet",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "lemon",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "butter",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "garlic",
+                "caloriesPer100g": 149,
+                "proteinPer100g": 6.4,
+                "carbsPer100g": 33,
+                "fatPer100g": 0.5
+            },
+            {
+                "name": "parsley",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            }
+        ],
+        "tagBadge": "",
+        "description": "A light and flaky baked cod with a zesty lemon and herb butter sauce.",
+        "time": "30 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Jessica Day",
+        "authorDate": "13 March 2023",
+        "price": 16.07,
+        "dietTypes": [
+            "Keto"
+        ],
+        "allergens": [
+            "Dairy",
+            "Fish",
+            "Nuts"
+        ]
+    },
+    {
+        "title": "Roasted Chickpeas",
+        "calories": 160,
+        "protein": 8,
+        "carb": 25,
+        "fats": 5,
+        "diet": [
+            "Vegan",
+            "Gluten-Free",
+            "Low Fat"
+        ],
+        "dietClass": "bg-success",
+        "category": "snacks",
+        "image": "/Recipe11.svg",
+        "ingredients": [
+            {
+                "name": "chickpeas",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "olive oil",
+                "caloriesPer100g": 884,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 100
+            },
+            {
+                "name": "paprika",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "cumin",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "salt",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            }
+        ],
+        "tagBadge": "",
+        "description": "Crispy and flavorful roasted chickpeas, a healthy and addictive snack.",
+        "time": "20 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Kevin Hart",
+        "authorDate": "04 February 2023",
+        "price": 13.92,
+        "dietTypes": [
+            "Vegetarian",
+            "Vegan"
+        ],
+        "allergens": [
+            "Eggs",
+            "Peanuts",
+            "Wheat"
+        ]
+    },
+    {
+        "title": "Orange Carrot Smoothie",
+        "calories": 195,
+        "protein": 2,
+        "carb": 48,
+        "fats": 1,
+        "diet": [
+            "Vegan",
+            "Gluten-Free"
+        ],
+        "dietClass": "bg-success",
+        "category": "smoothies",
+        "image": "/Recipe12.svg",
+        "ingredients": [
+            {
+                "name": "orange",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "carrot",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "ginger",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            },
+            {
+                "name": "water",
+                "caloriesPer100g": 0,
+                "proteinPer100g": 0,
+                "carbsPer100g": 0,
+                "fatPer100g": 0
+            }
+        ],
+        "tagBadge": "",
+        "description": "A vibrant and immunity-boosting orange carrot ginger smoothie.",
+        "time": "5 Minutes",
+        "authorImage": "/authorImage.svg",
+        "authorName": "Laura Dern",
+        "authorDate": "26 May 2023",
+        "price": 19.45,
+        "dietTypes": [
+            "Keto"
+        ],
+        "allergens": [
+            "Dairy",
+            "Shellfish",
+            "Fish",
+            "Sesame"
+        ]
+    }
+]
