@@ -1,0 +1,144 @@
+.admin-orders-actions .btn-outline-success:hover {
+    background-color: transparent !important;
+    color: #146c43 !important;
+    text-decoration: underline;
+}
+
+.admin-orders-actions .btn-outline-warning:hover {
+    background-color: transparent !important;
+    color: #cc9a06 !important;
+    text-decoration: underline;
+}
+
+.admin-orders-actions .btn-outline-primary:hover {
+    background-color: transparent !important;
+    color: #0a58ca !important;
+    text-decoration: underline;
+}
+
+.admin-orders-actions .btn-outline-info:hover {
+    background-color: transparent !important;
+    color: #0aa2c0 !important;
+    text-decoration: underline;
+}
+
+.admin-orders-actions .btn-outline-danger {
+    color: red !important;
+    border-color: #fff !important;
+    background-color: #fff !important;
+    box-shadow: none;
+}
+
+.admin-orders-actions .btn-outline-danger:hover {
+    background-color: white !important;
+    color: rgb(224, 2, 2) !important;
+    border: none !important;
+    text-decoration: underline;
+    box-shadow: none;
+}
+
+.admin-orders-actions .btn-outline-dark {
+    color: #000 !important;
+}
+
+.admin-orders-actions .btn-outline-dark:hover {
+    background-color: transparent !important;
+    color: #000 !important;
+    text-decoration: underline;
+}
+
+.admin-orders-ellipsis {
+    max-width: 150px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.table th {
+    font-size: 17px;
+}
+
+.table td {
+    font-size: 16px;
+}
+
+.pagination {
+    display: flex;
+    align-items: center;
+    gap: 0px;
+}
+
+.pagination .page-item {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pagination .page-item .page-link {
+    border: none !important;
+    background: transparent !important;
+    box-shadow: none !important;
+    color: #2c3e50 !important;
+    transition: color 0.2s ease-in-out;
+    cursor: pointer;
+}
+
+.pagination .page-item .page-link:hover,
+.pagination .page-item.active .page-link {
+    color: #0DCAF0 !important;
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.pagination .page-item.disabled .page-link {
+    color: #aaa !important;
+    cursor: default !important;
+    pointer-events: none;
+}
+
+.pagination .page-item:first-child .page-link,
+.pagination .page-item:last-child .page-link {
+    font-size: 1.4rem;
+    border: none !important;
+    background: transparent !important;
+    color: #2c3e50 !important;
+}
+
+.pagination .page-item:first-child .page-link:hover,
+.pagination .page-item:last-child .page-link:hover {
+    color: #0DCAF0 !important;
+    cursor: pointer;
+}
+
+.delivery-details-left {
+    flex: 1;
+    padding-right: 24px;
+    border-right: 1px solid #eee;
+}
+
+.delivery-details-left .form-control {
+    border-radius: 10px;
+    padding: 8px 12px;
+    font-size: 15px;
+}
+
+.delivery-details-left label {
+    font-weight: 500;
+    color: #2c3e50;
+}
+
+div[style*="overflow-y: auto"]::-webkit-scrollbar {
+    width: 6px;
+}
+
+div[style*="overflow-y: auto"]::-webkit-scrollbar-thumb {
+    background: #ccc;
+    border-radius: 3px;
+}
+
+div[style*="overflow-y: auto"]::-webkit-scrollbar-thumb:hover {
+    background: #999;
+}

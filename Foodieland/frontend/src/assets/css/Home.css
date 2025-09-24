@@ -1,0 +1,340 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.hero-section {
+    border-radius: 30px;
+    margin-bottom: 60px;
+    padding: 0;
+}
+
+.swiper-container {
+    width: 100%;
+    height: 100%;
+    min-height: 450px;
+}
+
+.swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.swiper-slide .row {
+    background-color: #e9faff;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin: 0;
+    border-radius: 30px;
+    overflow: hidden;
+}
+
+.swiper-slide .col-md-6 {
+    height: 100%;
+}
+
+.hero-img {
+    max-width: 100%;
+    height: 600px;
+    display: block;
+    object-fit: cover;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.tag-badge {
+    background-color: #fdebd2;
+    color: #b95c00;
+    padding: 6px 12px;
+    border-radius: 20px;
+    font-weight: 600;
+    font-size: 0.8rem;
+}
+
+.hero-title {
+    font-size: 3rem;
+    margin-bottom: 15px;
+    color: #2c3e50;
+}
+
+.hero-description {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #555;
+}
+
+.author-box img.author-img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.author-name {
+    font-weight: 600;
+    color: #2c3e50;
+}
+
+.author-date {
+    font-size: 0.9rem;
+    color: #777;
+}
+
+.btn-dark-rounded {
+    background-color: #2c3e50;
+    color: #fff;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-weight: 500;
+    transition: background-color 0.3s ease;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.btn-dark-rounded:hover {
+    background-color: #34495e;
+}
+
+.swiper-pagination {
+    position: relative;
+    margin-top: 20px;
+}
+
+.swiper-pagination-bullet {
+    background-color: #000;
+    opacity: 0.5;
+}
+
+.swiper-pagination-bullet-active {
+    background-color: #000;
+    opacity: 1;
+}
+
+.category-wrapper {
+    text-align: center;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.category-wrapper:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+}
+
+.category-clickable-area {
+    display: inline-block;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 10px;
+    transition: background-color 0.2s ease;
+    text-decoration: none;
+    color: inherit;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+.category-clickable-area:hover {
+    background-color: #f0f0f0;
+}
+
+.category-icon {
+    width: 60px;
+    height: 60px;
+    background-color: #f8f9fa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+    margin: auto;
+    margin-bottom: 5px;
+    font-size: 2.5rem;
+}
+
+.form-label {
+    font-weight: bold;
+    color: #2c3e50;
+}
+
+.form-control.rounded-pill,
+.form-select.rounded-pill {
+    border-radius: 50px !important;
+    padding: 10px 20px;
+}
+
+.btn-primary {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+.btn-primary:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+}
+
+.hero-chef-section {
+    background: linear-gradient(to right, #fff, #e6f4f1);
+    border-radius: 20px;
+    padding: 40px;
+}
+
+.mb-custom-spacing {
+    margin-bottom: 5rem !important;
+}
+
+.feedback-form-section {
+    background-color: #e9faff;
+    border-radius: 1.5rem;
+    padding: 60px 20px;
+    text-align: center;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+    overflow: hidden;
+    position: relative;
+}
+
+.feedback-content-wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+    width: 100%;
+    position: relative;
+    z-index: 1;
+}
+
+.feedback-form .form-control {
+    border-radius: 0.75rem;
+    padding: 1rem 1.25rem;
+    border: 1px solid #dee2e6;
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.05);
+    transition: all 0.3s ease;
+}
+
+.feedback-form .form-control:focus {
+    border-color: #86b7fe;
+    outline: 0;
+    box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+}
+
+.star-rating i {
+    transition: color 0.2s ease-in-out, transform 0.2s ease-in-out;
+}
+
+.star-rating i:hover {
+    transform: scale(1.1);
+}
+
+@media (max-width: 768px) {
+    .feedback-form-section {
+        padding: 40px 15px;
+    }
+}
+
+@media (max-width: 576px) {
+    .feedback-form-section {
+        padding: 30px 10px;
+    }
+
+    .star-rating i {
+        font-size: 2rem;
+    }
+}
+
+.btn-outline-secondary {
+    color: #36b0c2;
+    border-color: #a7e0e9;
+    background-color: #e9faff;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    font-weight: 600;
+}
+
+.btn-outline-secondary:hover {
+    color: #fff;
+    background-color: #36b0c2;
+    border-color: #36b0c2;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transform: translateY(-2px);
+}
+
+.btn-outline-secondary2 {
+    color: #000000;
+    border-color: #ffffff;
+    background-color: #ffffff;
+    transition: all 0.3s ease;
+    font-weight: 600;
+}
+
+.btn-outline-secondary2:hover {
+    color: #fff;
+    background-color: #36b0c2;
+    border-color: #36b0c2;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.feedback-form-section {
+    background: linear-gradient(to bottom right, #f0fafd, #dff4f9);
+    border-radius: 2rem;
+    padding: 60px 20px;
+    text-align: center;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+    overflow: hidden;
+    position: relative;
+    border: 1px solid #cdeffc;
+}
+
+.feedback-content-wrapper h2 {
+    color: #2c3e50;
+}
+
+.feedback-form .form-control {
+    border-radius: 1rem;
+    padding: 1rem 1.25rem;
+    border: 1px solid #d0ecf4;
+    background-color: #f8fdff;
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.04);
+}
+
+.feedback-form .form-control:focus {
+    border-color: #36b0c2;
+    box-shadow: 0 0 0 0.25rem rgba(54, 176, 194, 0.25);
+}
+
+.feedback-form button[type="submit"] {
+    background-color: #36b0c2;
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    font-weight: 600;
+    border-radius: 50px;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 12px rgba(54, 176, 194, 0.3);
+}
+
+.feedback-form button[type="submit"]:hover {
+    background-color: #2a93a5;
+    transform: translateY(-2px);
+}
+
+.star-rating i {
+    color: #ffd966;
+    font-size: 2.5rem;
+    transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.star-rating i:hover {
+    color: #ffbc00;
+    transform: scale(1.15);
+}

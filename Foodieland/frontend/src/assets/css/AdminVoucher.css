@@ -1,0 +1,288 @@
+/* src/css/AdminVoucher.css */
+
+/* ========== Container ========== */
+.voucher-admin, .voucher-form__page {
+  padding: 24px;
+  background: #f9fafb;
+  min-height: 100vh;
+  font-family: "Inter", sans-serif;
+  color: #111827;
+  max-width: 1200px;   
+  margin: 0 auto;
+}
+
+.voucher-admin__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.voucher-admin__title {
+  font-size: 1.875rem;
+  font-weight: 700;
+  color: #1f2937;
+  margin-bottom: 1.5rem;
+}
+
+/* Trạng thái tải dữ liệu / lỗi */
+.voucher-admin__status {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 15px;
+}
+.voucher-admin__status--error {
+  color: #dc2626;
+}
+
+/* ========== Form ========== */
+
+.voucher-form {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  row-gap: 28px;
+  column-gap: 20px;
+  padding: 32px;
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  margin-bottom: 28px;
+  min-height: 70vh; 
+  align-content: space-between;
+}
+
+.voucher-form input,
+.voucher-form select {
+  padding: 14px 16px; 
+  border: 1px solid #d1d5db;
+  border-radius: 10px;
+  font-size: 15px;
+  color: #000 !important;
+  background: #fff;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+
+.voucher-form input:focus,
+.voucher-form select:focus {
+  outline: none;
+  border-color: #2563eb;
+  box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.2);
+}
+
+.voucher-form label {
+  display: flex;
+  flex-direction: column;
+  font-size: 14px;
+  font-weight: 500;
+  color: #374151;
+  gap: 6px;
+}
+
+.voucher-form__actions {
+  grid-column: 1 / -1; /* full width 2 cột */
+  display: flex;
+  gap: 12px;
+  margin-top: 12px;
+}
+
+/* Responsive: mobile về 1 cột */
+@media (max-width: 640px) {
+  .voucher-form {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ========== Buttons ========== */
+.btn {
+  padding: 9px 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+  transition: background 0.2s, transform 0.1s;
+}
+
+.btn:hover {
+  transform: translateY(-1px);
+}
+
+.btn--primary {
+  background: #2563eb;
+  color: #fff;
+}
+.btn--primary:hover {
+  background: #1e40af;
+}
+
+.btn--ghost {
+  background: #f3f4f6;
+  color: #374151;
+}
+.btn--ghost:hover {
+  background: #e5e7eb;
+}
+
+.btn--danger {
+  background: #dc2626;
+  color: #fff;
+}
+.btn--danger:hover {
+  background: #b91c1c;
+}
+
+.btn--small {
+  padding: 5px 9px;
+  font-size: 13px;
+}
+
+/* ========== Table ========== */
+.voucher-table__wrap {
+  overflow-x: auto;
+}
+
+.voucher-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+}
+
+.voucher-table th,
+.voucher-table td {
+  padding: 12px 14px;
+  border-bottom: 1px solid #e5e7eb;
+  text-align: left;
+  font-size: 14px;
+}
+
+.voucher-table th {
+  background: #f3f4f6;
+  font-weight: 600;
+  color: #374151;
+}
+
+.voucher-table tr:hover td {
+  background: #f9fafb;
+}
+
+.voucher-table__empty {
+  text-align: center;
+  color: #6b7280;
+  font-style: italic;
+  padding: 18px;
+}
+
+/* ========== Badge ========== */
+.badge {
+  padding: 4px 10px;
+  border-radius: 14px;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+
+.badge--active {
+  background: #d1fae5;
+  color: #065f46;
+}
+
+.badge--inactive {
+  background: #fee2e2;
+  color: #991b1b;
+}
+
+/* ========== Misc ========== */
+.mono {
+  font-family: monospace;
+}
+
+.table-actions {
+  display: flex;
+  gap: 8px;
+}
+/* Container toggle */
+.toggle {
+  position: relative;
+  display: inline-block;
+  width: 46px;
+  height: 24px;
+}
+
+.toggle input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #d1d5db;
+  transition: 0.3s;
+  border-radius: 24px;
+}
+
+.slider::before {
+  position: absolute;
+  content: "";
+  height: 18px;
+  width: 18px;
+  left: 3px;
+  bottom: 3px;
+  background-color: #fff;
+  transition: 0.3s;
+  border-radius: 50%;
+}
+
+.toggle input:checked + .slider {
+  background-color: #2563eb;
+}
+
+.toggle input:checked + .slider::before {
+  transform: translateX(22px);
+}
+.btn--success {
+  background-color: #4bd569; 
+  color: #fff;
+  border: none;
+}
+
+.btn--success:hover {
+  background-color: #4bd569;
+}
+
+.btn--danger {
+  background-color: #dc3545; 
+  color: #fff;
+  border: none;
+}
+
+.btn--danger:hover {
+  background-color: #c82333;
+}
+.loading-wrapper {
+  display: flex;
+  justify-content: center; 
+  align-items: center;     
+  height: 60vh;            
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: #2c3e50;
+}
+.error-input {
+  border: 1px solid red;
+}
+.error-text {
+  color: red;
+  font-size: 14px;
+  margin-top: 4px;
+}

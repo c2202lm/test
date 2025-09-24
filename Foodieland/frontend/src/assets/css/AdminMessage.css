@@ -1,0 +1,50 @@
+.admin-message-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px 40px;
+}
+
+.admin-message-container h2 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.admin-message-container h3 {
+  margin: 20px 0 10px;
+  color: #444;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
+
+.message-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 30px;
+}
+
+.message-table th,
+.message-table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+  white-space: normal;
+  word-wrap: break-word;
+  word-break: break-word;
+  max-width: 300px;
+}
+
+
+.message-table th {
+  background-color: #f4f4f4;
+}
+
+.message-table tr:nth-child(even) {
+  background-color: #fafafa;
+}
+
+.message-table tr:hover {
+  background-color: #f1f1f1;
+}

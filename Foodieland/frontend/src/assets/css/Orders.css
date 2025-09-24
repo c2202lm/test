@@ -1,0 +1,235 @@
+body {
+    background-color: #f7f9fc;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.hover-scale-effect {
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    border-radius: 12px;
+}
+
+.hover-scale-effect:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.15);
+}
+
+.custom-modern-tabs {
+    border-bottom: 3px solid #e0e0e0;
+    margin-bottom: 3rem !important;
+}
+
+.custom-modern-tabs .nav-item {
+    margin: 0 10px;
+}
+
+.custom-tab-button-modern {
+    padding: 0.75rem 1.5rem;
+    font-size: 1.05rem;
+    font-weight: 500;
+    color: #555;
+    background-color: transparent;
+    border: none;
+    border-bottom: 3px solid transparent;
+    transition: all 0.3s ease-in-out;
+    position: relative;
+    z-index: 1;
+}
+
+.custom-tab-button-modern:hover {
+    color: #36B0C2;
+    border-bottom-color: #36B0C2;
+    transform: translateY(-2px);
+}
+
+.custom-tab-button-modern.active {
+    color: #36B0C2;
+    font-weight: 600;
+    border-bottom-color: #36B0C2;
+    background-color: transparent !important;
+    transform: translateY(0);
+}
+
+.order-card {
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+    transition: all 0.3s ease;
+}
+
+.order-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.12);
+}
+
+.order-card .card-header {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #e9ecef;
+    border-radius: 12px 12px 0 0;
+    padding: 1rem 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.order-card .card-body {
+    padding: 1.5rem;
+}
+
+.order-card .card-footer {
+    background-color: #f8f9fa;
+    border-top: 1px solid #e9ecef;
+    border-radius: 0 0 12px 12px;
+    padding: 1rem 1.5rem;
+}
+
+.order-item-list {
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.order-item-list .list-group-item {
+    transition: background-color 0.2s ease;
+}
+
+.order-item-list .list-group-item:hover {
+    background-color: #f1f3f5;
+}
+
+/* Modal styling */
+.modal-content {
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+}
+
+.modal-header {
+    border-bottom: none;
+    padding: 1.5rem 2rem 0.5rem 2rem;
+}
+
+.modal-body {
+    padding: 1rem 2rem 2rem 2rem;
+}
+
+.modal-footer {
+    border-top: none;
+    padding: 0 2rem 1.5rem 2rem;
+}
+
+.badge-status {
+    padding: 0.5em 0.8em;
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: 0.8rem;
+    text-transform: capitalize;
+}
+
+.total-price {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #2c3e50;
+}
+
+.order-empty-state {
+    min-height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    color: #6c757d;
+}
+
+.order-card .card-footer .btn-outline-primary {
+    border: none;
+    color: #36B0C2;
+}
+
+.order-card .card-footer .btn-outline-danger {
+    transition: all 0.3s ease;
+    border: none;
+    color: #dc3545;
+}
+
+.order-card .card-footer .btn-outline-primary {
+    transition: all 0.3s ease;
+    border: none;
+    color: #36B0C2;
+}
+
+.order-card .card-footer .btn-outline-primary:hover {
+    background-color: transparent !important;
+    color: rgb(43 137 151) !important;
+    text-decoration: underline;
+    transform: scale(1.05);
+}
+
+.order-card .card-footer .btn-outline-danger {
+    transition: all 0.3s ease;
+    border: none;
+    color: #dc3545;
+}
+
+.order-card .card-footer .btn-outline-danger:hover {
+    background-color: transparent !important;
+    color: #a52834 !important;
+    text-decoration: underline;
+    transform: scale(1.05);
+}
+
+.diet-badge {
+    padding: 0.25em 0.6em;
+    font-size: 0.75rem;
+    font-weight: 500;
+}
+
+.total-price-item {
+    font-size: 1rem;
+}
+
+.order-summary {
+    margin-left: auto;
+    width: fit-content;
+}
+
+
+.order-summary .row-item {
+    display: grid;
+    grid-template-columns: 120px auto;
+    column-gap: 16px;
+}
+
+.order-summary .label {
+    text-align: left;
+}
+
+.order-summary .value {
+    text-align: left;
+    min-width: 70px;
+}
+
+.order-summary .total {
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-top: 8px;
+}
+
+.item-summary .row-item {
+    display: grid;
+    grid-template-columns: 120px auto;
+    column-gap: 16px;
+}
+
+.item-summary .label {
+    text-align: left;
+    color: #6c757d;
+}
+
+.item-summary .value {
+    text-align: left;
+    font-weight: 500;
+}

@@ -1,0 +1,27 @@
+.dashboard-slide {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 420px;
+    background: #fff;
+    box-shadow: 2px 0 16px rgba(0,0,0,0.12);
+    z-index: 2000;
+    display: flex;
+    flex-direction: column;
+    padding: 32px 24px 24px 24px;
+    transform: translateX(-100%);
+    transition: transform 0.35s cubic-bezier(0.4,0,0.2,1);
+}
+.dashboard-slide.open {
+    transform: translateX(0);
+}
+.dashboard-backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0,0,0,0.2);
+    z-index: 1500;
+}

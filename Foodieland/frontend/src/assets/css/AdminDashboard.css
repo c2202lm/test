@@ -1,0 +1,15 @@
+.truncate-text {
+  max-width: 100px;     
+  white-space: nowrap;   
+  overflow: hidden;      
+  text-overflow: ellipsis; 
+}
+
+.fullname-text {
+  white-space: normal;   /* Cho phép xuống dòng */
+  word-break: break-word; /* Tự động xuống dòng khi quá dài */
+}
+
+.table-custom tbody tr {
+  border-bottom: 1px solid #dee2e6; /* hoặc #ccc */
+}

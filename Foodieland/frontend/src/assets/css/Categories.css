@@ -1,0 +1,249 @@
+.category-wrapper {
+    text-align: center;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.category-wrapper:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+}
+
+.category-clickable-area {
+    display: inline-block;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 10px;
+    transition: background-color 0.2s ease;
+    text-decoration: none;
+    color: inherit;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+.category-clickable-area:hover {
+    background-color: #f0f0f0;
+}
+
+.category-icon {
+    width: 60px;
+    height: 60px;
+    background-color: #f8f9fa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+    margin: auto;
+    margin-bottom: 5px;
+    font-size: 2.5rem;
+}
+
+.form-label {
+    font-weight: bold;
+    color: #333;
+}
+
+.filter-section {
+    position: relative;
+    padding: 2.5rem;
+    border-radius: 1rem;
+    background-color: #fcfdff;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+}
+
+.filter-section .form-control,
+.filter-section .form-select {
+    border: 1px solid #e0e7ff;
+    background-color: #ffffff;
+    color: #4a5568;
+    font-size: 1rem;
+    padding: 0.75rem 1.25rem;
+    border-radius: 0.75rem !important;
+    transition: all 0.3s ease;
+}
+
+.filter-section .form-control:focus,
+.filter-section .form-select:focus {
+    border-color: #6366f1;
+    box-shadow: 0 0 0 0.2rem rgba(99, 102, 241, 0.25);
+    outline: none;
+}
+
+.filter-collapse-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.6s ease-in-out, padding-top 0.6s ease-in-out;
+    padding-top: 0;
+}
+
+.filter-collapse-content.expanded {
+    max-height: 1000px;
+    padding-top: 2rem;
+}
+
+.filter-toggle-button {
+    font-size: 1rem;
+    color: #6366f1;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    transition: color 0.3s ease;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.filter-toggle-button:hover {
+    color: #4f46e5;
+    background-color: rgba(99, 102, 241, 0.05);
+}
+
+.filter-toggle-button i {
+    transition: transform 0.3s ease-in-out;
+    font-size: 1.2rem;
+}
+
+.filter-toggle-button[aria-expanded="false"] i {
+    transform: rotate(0deg);
+}
+
+.filter-toggle-button[aria-expanded="true"] i {
+    transform: rotate(180deg);
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.nutrition-calculator-section {
+    background-color: #e9faff;
+    padding: 2.5rem;
+    border-radius: 1rem;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+}
+
+.nutrition-calculator-section .form-control {
+    border: 1px solid #e0e7ff;
+    background-color: #ffffff;
+    color: #4a5568;
+    font-size: 1rem;
+    padding: 0.75rem 1.25rem;
+    border-radius: 0.75rem !important;
+    transition: all 0.3s ease;
+}
+
+.nutrition-calculator-section .form-control:focus {
+    border-color: #6366f1;
+    box-shadow: 0 0 0 0.2rem rgba(99, 102, 241, 0.25);
+    outline: none;
+}
+
+.nutrition-calculator-section .btn-primary {
+    background-color: #6366f1;
+    border-color: #6366f1;
+    font-weight: 600;
+    padding: 0.75rem 1.5rem;
+    border-radius: 0.75rem;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+.nutrition-calculator-section .btn-primary:hover {
+    background-color: #4f46e5;
+    border-color: #4f46e5;
+}
+
+.nutrition-calculator-section .bg-white {
+    background-color: #ffffff !important;
+    border-radius: 0.75rem;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+.nutrition-calculator-section h5 {
+    color: #2c3e50;
+}
+
+.nutrition-calculator-section strong {
+    color: #333;
+}
+
+h3[id$="-title"] {
+    scroll-margin-top: 100px;
+}
+
+.popup-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.popup-box {
+  background: #fff;
+  padding: 25px;
+  border-radius: 12px;
+  text-align: center;
+  width: 410px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+}
+
+.popup-box h2 {
+  margin-bottom: 12px;
+  color: #21a095;
+}
+
+.popup-box p {
+  margin-bottom: 18px;
+  color: #333;
+}
+
+.popup-confirm {
+  padding: 10px 18px;
+  background-color: #36B0C2;
+  color: #fff;
+  font-size: 15px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.popup-remove {
+  padding: 10px 18px;
+  background-color: #ff4d4d;
+  color: #fff;
+  font-size: 15px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.popup-confirm:hover {
+  background-color: rgb(43, 137, 151);
+}
+
+.popup-btn{
+    display: flex;
+    justify-content: space-around;
+}
